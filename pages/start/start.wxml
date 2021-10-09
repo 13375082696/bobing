@@ -1,0 +1,14 @@
+<!--pages/start/start.wxml-->
+
+<view>
+<image class="bg-image" mode="scaleToFill" src="/images/background.jpg"></image>
+</view>
+
+<view class='container'>
+<view class='title' style='font-family:Times New Roman,Times,serif; font-size:50px; color: rgb(234, 250, 192);'>博饼游戏</view>
+</view>
+
+<view class="btn-area" id="buttonContainer">
+    <button type="primary" style="height: 170rpx; width: 250rpx; color: rgb(196, 20, 20); font-size: 65rpx; top: 600rpx; border-radius: 20%; "bindtap="gotopattern">开始</button>
+</view>
+

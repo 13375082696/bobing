@@ -1,0 +1,9 @@
+/* pages/award/award.wxss */
+.body{
+	margin: 15rpx;
+	height: 800rpx;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	align-items: center
+}
